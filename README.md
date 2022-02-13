@@ -1,3 +1,3 @@
-![image](https://user-images.githubusercontent.com/75505549/153748755-d4d31100-e8ac-4d2e-ab1d-808674597ac0.png)
+![image](https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ylmzKasap&layout=compact)](https://github.com/ylmzKasap)
