@@ -9,7 +9,7 @@
   <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/postgresql/postgresql-original.svg">
 </div>
 
-<div style="display: flex; width: 100%; justify-content: space-evenly; align-items: center; margin-top: 40px;">
+<div style="display: flex; flex-direction: row; width: 100%; justify-content: space-evenly; align-items: center; margin-top: 40px;">
   <p>
     <img 
       align="center"
