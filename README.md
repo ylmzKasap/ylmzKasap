@@ -1,6 +1,6 @@
 
 <div align="center">
-  <p style="font-weight: bold; font-size: 1.4rem;">Language & tools:</p>
+  <h3>Language & tools:</h3>
   <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg">
   <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/typescript/typescript-original.svg">
   <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg">
@@ -9,7 +9,9 @@
   <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/postgresql/postgresql-original.svg">
 </div>
 
-<div style="width: 100%; margin-top: 40px;" align= "center">
+&nbsp;
+
+<div align= "center">
   <p>
     <img 
       align="center"
