@@ -12,12 +12,13 @@
 &nbsp;
 
 <div align= "center">
-  <p>
+  <!-- <p>
     <img 
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=ylmzKasap&show_icons=true&locale=en&layout=compact"
       alt="ylmzKasap-github-stats" />
   </p>
+  -->
   <p>&nbsp;
     <img align="center"
     src="https://github-readme-stats.vercel.app/api?username=ylmzKasap&show_icons=true&locale=en"
