@@ -8,11 +8,11 @@
   <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg">
   <img height="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/postgresql/postgresql-original.svg">
 </div>
-
+<!--
 &nbsp;
 
 <div align= "center">
-  <!-- <p>
+   <p>
     <img 
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs?username=ylmzKasap&show_icons=true&locale=en&layout=compact"
@@ -24,5 +24,7 @@
     src="https://github-readme-stats.vercel.app/api?username=ylmzKasap&show_icons=true&locale=en"
     alt="ylmzKasap-github-stats" />
   </p>
-  -->
+  
 </div>
+
+-->
